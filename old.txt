@@ -1,0 +1,18 @@
+matplotlib>=3.2.2  3.6.2 - Done
+numpy==1.20.0  1.23.5 - Done
+opencv-python>=4.1.2  4.6.0
+Pillow  
+PyYAML>=5.3.1  6.0
+scipy>=1.4.1  1.9.3 
+torch==1.8.0  1.9.0 - Done
+torchvision==0.9.1  0.10.0
+tqdm>=4.41.0  4.64.1
+
+
+https://github.com/conda-forge/openblas-feedstock/issues/79
+
+or 
+
+conda install -c anaconda libopenblas
+
+090300 33049

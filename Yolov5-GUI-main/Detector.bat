@@ -1,0 +1,1 @@
+..\..\virtual_python\Scripts\activate

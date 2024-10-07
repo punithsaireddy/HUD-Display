@@ -1,0 +1,5 @@
+train: C:/Harshith/yolov5/sign/train/images
+val: C:/Harshith/yolov5/sign/valid/images
+
+nc: 43
+names: ['20 Limit', '30 Limit', 'No Overtake for truck', 'Crossroads ahead', 'Go Slow', 'Give way', 'Stop', 'Empty Road', 'Truck Road', 'No entry', 'Warning ahead', 'Left turn', '50 Limit', 'Right turn', 'Zig Zag Road', 'Double speed break', 'Slippery road', 'Narrow road on right', 'Construction ahead', 'Traffic lights ahead', 'Pedestrian crossway', 'Children crossway', 'Bicycle crossway', '60 Limit', 'Ice road ahead', 'Animal crossway', 'National speed limit', 'Right turn', 'Left turn', 'Straight road', 'Split right road', 'Split left road', 'Right roll up', 'Left roll up', '70 Limit', 'Circle road', 'No overtake', 'No overtake for truck', '80 Limit', 'Less than 80 speed', '100 Limit', '120 Limit', 'No overtake']
